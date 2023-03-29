@@ -1,3 +1,8 @@
+<center>
+    <img src="public/web.png">
+    <img src="public/mobile.png">
+</center>
+
 # Project Description
 
 The objective of this project is to develop an application by exploring and understanding a chosen software platform. The application will function similar to that of IFTTT and Zapier, and it will be divided into three parts: an application server, a web client, and a mobile client.
